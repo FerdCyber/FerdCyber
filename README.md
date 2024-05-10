@@ -5,6 +5,10 @@
   - [Active Directory Home Lab](https://github.com/FerdCyber/ActiveDirectoryLab)
   - [KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 
+<h2>👨🏽‍🎓 Education</h2>
+
+- Bachelor's in Computer Engineering
+
 <h2> Certifications</h2>
 
 - [Certified Ethical Hacker](https://www.youtube.com/watch?v=a83ASGn_V_s)
