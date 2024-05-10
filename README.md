@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/AD_PS)
+  - [Active Directory Home Lab](https://github.com/FerdCyber/ActiveDirectoryLab)
   - [KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 
 <h2> Certifications</h2>
