@@ -1,21 +1,15 @@
-<h1>Hi, I'm Ferdinard! <a href="https://www.linkedin.com/in/ahenkorah-ferdinand/">Cybersecurity Professional</a>,
+<h1>Hi, I'm Ferdinard! <br><a href="https://www.linkedin.com/in/ahenkorah-ferdinand/">Cybersecurity Professional</a>,
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/FerdCyber/ActiveDirectoryLab)
-  - [KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 
 <h2>👨🏽‍🎓 Education</h2>
 
 - Bachelor's in Computer Engineering
 
-<h2> Certifications</h2>
+<h2>📜 Certifications</h2>
 
-- [Certified Ethical Hacker](https://www.youtube.com/watch?v=a83ASGn_V_s)
- 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2> 🤳 Connect with me:</h2>
 
