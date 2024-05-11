@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/FerdCyber/ActiveDirectoryLab)
+  - [Nesus Essential Vulnerability Assessment](https://github.com/FerdCyber/NesusVulnerabilityAssesment)
 
 <h2>👨🏽‍🎓 Education</h2>
 
