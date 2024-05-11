@@ -6,6 +6,7 @@
 
 <h2>👨🏽‍🎓 Education</h2>
 
+- Postgradute Cybersecurity Analytics
 - Bachelor's in Computer Engineering
 
 <h2>📜 Certifications</h2>
