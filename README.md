@@ -11,7 +11,7 @@
 
 <h2>📜 Certifications:</h2>
 
- - [Certified Ethical Hacker](https://drive.google.com/file/d/15XZOzl2UPP4FWNQk28cVr2OUP1nk8WeZ/view?usp=sharing)
+ - [Certified Ethical Hacker(CEH)](https://drive.google.com/file/d/15XZOzl2UPP4FWNQk28cVr2OUP1nk8WeZ/view?usp=sharing)
 
 <h2> 🤳 Connect with me:</h2>
 
