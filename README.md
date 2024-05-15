@@ -4,6 +4,7 @@
 
   - [Active Directory Home Lab](https://github.com/FerdCyber/ActiveDirectoryLab)
   - [Nesus Essential Vulnerability Assessment](https://github.com/FerdCyber/NesusVulnerabilityAssesment)
+  - [Dell Cyber Breach Report]
 
 <h2>👨🏽‍🎓 Education</h2>
 
