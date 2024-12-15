@@ -24,7 +24,7 @@
 
 [twitter]: https://twitter.com/FerdCyber
 [instagram]: https://www.instagram.com/ferdcyber/
-[linkedin]: https://www.linkedin.com/in/ahenkorah-ferdinand/
+[linkedin]: https://www.linkedin.com/in/ferdcyber/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
