@@ -14,6 +14,7 @@
 <h2>📜 Certifications:</h2>
 
  - [Certified Ethical Hacker(CEH)](https://drive.google.com/file/d/15XZOzl2UPP4FWNQk28cVr2OUP1nk8WeZ/view?usp=sharing)
+ - [Microsoft Security, Compliance, and Identity Fundamentals:SC900](https://drive.google.com/drive/my-drive)
 
 <h2> 🤳 Connect with me:</h2>
 
