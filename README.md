@@ -15,6 +15,7 @@
 
  - [Certified Ethical Hacker(CEH)](https://drive.google.com/file/d/15XZOzl2UPP4FWNQk28cVr2OUP1nk8WeZ/view?usp=sharing)
  - [Microsoft Security, Compliance, and Identity Fundamentals: SC900](https://drive.google.com/drive/my-drive)
+ - [Maltego Advanced](https://drive.google.com/drive/home)
 
 <h2> 🤳 Connect with me:</h2>
 
