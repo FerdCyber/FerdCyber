@@ -5,6 +5,8 @@
  <h2>👨‍💻 Networking Projects Diaries:</h2>
  
   - [Switches MAC Address and Tables](https://github.com/FerdCyber/CCNA-Switches-Mac-address-and-table)
+  - [Routing Table](https://github.com/FerdCyber/CCNA-Switches-Mac-address-and-table)
+
     
 <h2>👨‍💻 Cloud Projects Diaries:</h2>
 
