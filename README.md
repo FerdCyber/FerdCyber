@@ -1,6 +1,11 @@
 <h1>Hi, I'm Ferdinard! <br><a href="https://www.linkedin.com/in/ahenkorah-ferdinand/">Cybersecurity Professional</a>,
-<h2>👨‍💻 Networking Projects Diaries:</h2>
- - [Active Directory Home Lab](https://github.com/FerdCyber/ActiveDirectoryLab)
+<h2>👨‍💻 Penetration Test Projects Diaries:</h2>
+
+ 
+ <h2>👨‍💻 Networking Projects Diaries:</h2>
+ 
+  - [Switches MAC Address and Tables](https://github.com/FerdCyber/CCNA-Switches-Mac-address-and-table)
+    
 <h2>👨‍💻 Cloud Projects Diaries:</h2>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
