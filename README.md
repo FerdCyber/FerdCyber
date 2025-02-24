@@ -1,16 +1,16 @@
 <h1>Hi, I'm Ferdinard! <br><a href="https://www.linkedin.com/in/ahenkorah-ferdinand/">Cybersecurity Professional</a>,
-<h2>👨‍💻 Penetration Test Projects Diaries:</h2>
+<h2>👨‍💻 Penetration Test Projects:</h2>
 
  
- <h2>👨‍💻 Networking Projects Diaries:</h2>
+ <h2>👨‍💻 Networking Projects:</h2>
  
   - [Switches MAC Address and Tables](https://github.com/FerdCyber/CCNA-Switches-Mac-address-and-table)
   - [Routing Table](https://github.com/FerdCyber/Routing-Table)
 
     
-<h2>👨‍💻 Cloud Projects Diaries:</h2>
+<h2>👨‍💻 Cloud Projects:</h2>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity:</h2>
 
   - [Active Directory Home Lab](https://github.com/FerdCyber/ActiveDirectoryLab)
   - [Nesus Essential Vulnerability Assessment](https://github.com/FerdCyber/NesusVulnerabilityAssesment)
